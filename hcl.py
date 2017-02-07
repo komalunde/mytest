@@ -3,7 +3,7 @@ from pprint import pprint
 web.config.debug = False
 
 urls = (
-  '/count', 'count',
+  '/count', 'count komal',
   '/reset', 'reset',
 )
 
